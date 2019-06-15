@@ -11,6 +11,7 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             //Дима лох
+            //спасибо за помощь:)
         }
     }
 }
