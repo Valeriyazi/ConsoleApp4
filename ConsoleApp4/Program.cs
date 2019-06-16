@@ -13,6 +13,7 @@ namespace ConsoleApp4
             Console.Write("&&&&");
             Console.WriteLine("Лера скачай проект свой 4 на комп");
             Console.WriteLine("fkfkfkfkfk");
+            Console.WriteLine("12");
         }
     }
 }
