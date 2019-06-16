@@ -11,6 +11,8 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Console.Write("&&&&");
+            Console.WriteLine("Лера скачай проект свой 4 на комп");
+            Console.WriteLine("fkfkfkfkfk");
         }
     }
 }
